@@ -1,6 +1,6 @@
 
 def getData():
-    with open("Day8/input.txt") as f:
+    with open("input.txt") as f:
         output = []
         for line in f.readlines():
             output.append(line.rstrip().split(" | "))

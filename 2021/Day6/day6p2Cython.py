@@ -19,7 +19,7 @@ def getData():
     if TEST:
         return [3,4,3,1,2]
     else:
-        with open('Day6/input.txt', 'r') as f:
+        with open('input.txt', 'r') as f:
             return f.readline().rstrip().split(",")
 
 

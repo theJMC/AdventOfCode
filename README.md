@@ -6,6 +6,8 @@ Some tasks are complete, some are not.
 Please enjoy!
 Links to the tasks [here](https://adventofcode.com/2021)
 
+**Mid-2022 Note:** I had to abandon the 2021 challanges due to pressure from school work during this AoC series
+
 ## Days:
 - P1: [x] P2: [x] - Day 1
 - P1: [x] P2: [x] - Day 2

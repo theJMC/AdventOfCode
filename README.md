@@ -1,6 +1,4 @@
 # AdventOfCode
-[Notion Page](https://www.notion.so/jamesmcc/AdventOfCode-f328fd66ceb34198bf87d0f47a50f5a6)
-
 
 This is my attempt at the 2021 Advent Of Code. 
 Some tasks are complete, some are not. 

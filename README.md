@@ -1,20 +1,9 @@
 # AdventOfCode
 
-This is my attempt at the 2021 Advent Of Code. 
-Some tasks are complete, some are not. 
+This is my repository to hold all of my Advent Of Code attempts. Inside each Year will be a `README.md` file with a tick sheet of which tasks I have completed.
+
 
 Please enjoy!
-Links to the tasks [here](https://adventofcode.com/2021)
-
-**Mid-2022 Note:** I had to abandon the 2021 challanges due to pressure from school work during this AoC series
-
-## Days:
-- P1: [x] P2: [x] - Day 1
-- P1: [x] P2: [x] - Day 2
-- P1: [x] P2: [x] - Day 3
-- P1: [x] P2: [ ] - Day 4
-- P1: [x] P2: [ ] - Day 5
-- P1: [x] P2: [x] - Day 6
-- P1: [ ] P2: [ ] - Day 7
-- P1: [ ] P2: [ ] - Day 8
-- P1: [ ] P2: [ ] - Day 9
+Links to the tasks:
+- [2021](https://adventofcode.com/2021)
+- [2022](https://adventofcode.com/2022)
